@@ -1,0 +1,36 @@
+.block {
+  max-width: 800px;
+  height: 1250px;
+  border: 5px solid red;
+  margin: 0 auto;
+  /* position: static; */
+  position: relative;
+}
+
+.block div {
+  text-align: center;
+  line-height: 50px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.block_1 {
+  background-color: aqua;
+}
+.block_2 {
+  background-color: bisque;
+  width: 100%;
+  position: sticky;
+  top: 0;
+
+}
+.block_3 {
+  background-color: darkgray;
+  /* position: relative;
+  z-index: 2; */
+}
+.block_4 {
+  background-color: aqua;
+  position: sticky;
+  top: 0;
+  left: 0;
+}

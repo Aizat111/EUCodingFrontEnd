@@ -1,0 +1,62 @@
+
+ .main-p{
+    color: blue;
+    font-size: 25px;
+}
+#first-p{
+    text-decoration: underline;
+}
+
+div .main-p{
+    color: red
+}
+
+p{
+    color: red
+}
+
+div b{
+    color: green;
+}
+
+/* body{
+    background-color: aquamarine;
+    background-image: url("https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}  */
+
+.main-link{
+    color: black
+}
+
+.main-link:hover {
+    color: red;
+    font-size:20px
+}
+.main-link:visited {
+    color: gray;
+}
+
+p:first-child{
+    color:blueviolet;
+}
+
+p::first-letter{
+    font-size: 50px;
+}
+
+/* .text{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.text:hover{
+
+}
+img{
+    width: 300px;
+    margin-top: 30px;
+    display: none
+} */

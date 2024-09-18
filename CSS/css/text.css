@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+.main-text{
+    color: brown;
+    font-size: 1.2em; 
+    font-style: italic;
+    font-weight: bold;
+    /* font-family: "Playwrite CU", cursive; */
+    /* text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: dotted; */
+    cursor:pointer;
+    text-align: center;
+    text-transform: uppercase;
+    /* line-height: 50px;
+    word-spacing: 40px;
+    letter-spacing: 20px; */
+}
